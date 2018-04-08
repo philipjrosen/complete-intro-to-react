@@ -29,5 +29,8 @@ module.exports = {
         loader: 'babel-loader'
       }
     ]
+  },
+  devServer: {
+    publicPath: '/public/'
   }
 };
