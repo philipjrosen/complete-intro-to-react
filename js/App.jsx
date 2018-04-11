@@ -1,7 +1,7 @@
-import React from "react";
-import { BrowserRouter, Route, Switch } from "react-router-dom";
-import Landing from "./Landing";
-import Search from "./Search";
+import React from 'react';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import Landing from './Landing';
+import Search from './Search';
 
 const FourOhFour = () => <h1>404</h1>;
 
